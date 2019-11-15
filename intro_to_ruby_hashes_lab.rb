@@ -7,12 +7,15 @@ end
 def my_hash
 cars = {
   "honda" => 1000,
-
-
+  "buick" => 2,
+  "toyota" => 500
+}
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  key = :name
+  user_access = {:name => "Grace Hopper", :hobby => "swimming"}
+#=> 
 end
 
 def id_generator
