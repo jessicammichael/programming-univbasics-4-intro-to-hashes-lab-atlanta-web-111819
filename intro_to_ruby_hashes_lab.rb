@@ -15,10 +15,11 @@ end
 def pioneer
   key = :name
   user_access = {:name => "Grace Hopper", :hobby => "swimming"}
-#=> 
 end
 
 def id_generator
+  key = :id
+  happy_things = {:id "Big Boy", ""} 
   # return a hash with a key :id assigned to positive integer
 end
 
