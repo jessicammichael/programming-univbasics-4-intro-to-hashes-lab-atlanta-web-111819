@@ -7,8 +7,8 @@ end
 def my_hash
 cars = {
   "honda" => 1000,
-  
-  
+
+
 end
 
 def pioneer
